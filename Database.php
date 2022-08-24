@@ -11,7 +11,7 @@ class DB
 	/*** mysql password ***/
 	private $password = 'password'; // Put Your MySQL Password here
 
-	/*** mysql password ***/
+	/*** mysql database name ***/
 	private $dbName = 'db'; // Put Your MySQL Database name here
 
 
